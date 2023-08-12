@@ -1,4 +1,4 @@
-# Tensai Suraimu do Baka Meido
+# Tensai Suraimu to Baka Meido
 > - 中　文：天才史莱姆 与 笨蛋妹抖
 > - 日本語：天才スライム と バカメイド
 

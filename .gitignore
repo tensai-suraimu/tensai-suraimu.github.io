@@ -1,2 +1,4 @@
 book
-mdbook.exe
+
+mdbook
+mdbook.*
