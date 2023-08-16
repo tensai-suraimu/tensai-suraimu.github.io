@@ -14,6 +14,8 @@
 
 - [Theme & Palette](./designs/theme_and_palette.md)
 
+- [Missions](./designs/missions.md)
+
 ---
 
 <!-- Extra -->

@@ -2,3 +2,6 @@ book
 
 mdbook
 mdbook.*
+
+# 一些设定暂不便公开，默认忽略
+src/designs/*
