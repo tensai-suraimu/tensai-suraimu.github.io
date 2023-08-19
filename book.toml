@@ -9,3 +9,6 @@ title = "Tensai Suraimu do Baka Meido"
 git-repository-url = "https://github.com/tensai-suraimu/tensai-suraimu.github.io"
 git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/tensai-suraimu/tensai-suraimu.github.io/edit/master/guide/{path}"
+
+[output.html.fold]
+enable = true
