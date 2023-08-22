@@ -15,6 +15,9 @@
 - title: 天才史莱姆
   天才史莱姆`and=与`笨蛋妹抖
 
+  - init: `$=game.title` - 启动页
+  - play: `$=game.title` - 试验场：`label`
+
 - settings:
   - language: 语言
   - windowSize: 窗口尺寸
@@ -51,6 +54,9 @@
 - title: 天才スライム
   天才スライム`and=と`バカメイド
 
+  - init: `$=game.title` - 初期化
+  - play: `$=game.title` - 試験場：`label`
+
 ## punc. 一般的な記号
 
 - colon: "："
@@ -74,6 +80,9 @@
 
 - title: Tensai Suraimu
   Tensai Suraimu `and=to` Baka Meido
+
+  - init: `$=game.title` - Splashscreen
+  - play: `$=game.title` - Playground：`label`
 
 ## punc. Common Punctuation
 
