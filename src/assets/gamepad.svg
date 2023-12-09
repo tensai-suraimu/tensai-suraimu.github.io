@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg style="--color1: #666; --color2: #999;" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="50" height="50"/>
+  </defs>
+  <g>
+    <path id="LS" style="fill: var(--color1);" d="M 64 49 C 72 43 110 30.5 130 29.5 L 125 20 L 68 30 Z"/>
+    <path id="RS" style="fill: var(--color1);" d="M 336 49 C 328 43 290 30.5 270 29.5 L 275 20 L 332 30 Z"/>
+    <path id="LT" style="fill: var(--color1);" d="M 35 30 L 66 30 L 62 50 C 61 50 45 75 44 80 Z"/>
+    <path id="RT" style="fill: var(--color1);" d="M 365 30 L 334 30 L 338 50 C 339 50 355 75 356 80 Z"/>
+    <path style="fill: var(--color1);" d="M 65 50 C 65 50 100 30 145 30 L 255 30 C 300 30 335 50 335 50 C 380 95 380 230 380 230 C 380 300 335 275 335 275 L 255 230 L 145 230 L 65 275 C 65 275 20 300 20 230 C 20 230 20 95 65 50 Z"/>
+  </g>
+  <g>
+    <circle style="fill: var(--color2);" cx="100" cy="100" r="40"/>
+    <g id="LJ">
+      <circle style="fill: var(--color1);" cx="100" cy="100" r="20"/>
+      <circle id="LP" style="fill: var(--color2);" cx="100" cy="100" r="15"/>
+    </g>
+    <circle style="fill: var(--color2);" cx="255" cy="175" r="40"/>
+    <g id="RJ">
+      <circle style="fill: var(--color1);" cx="255" cy="175" r="20"/>
+      <circle id="RP" style="fill: var(--color2);" cx="255" cy="175" r="15"/>
+    </g>
+  </g>
+  <g>
+    <path style="fill: var(--color2);" d="M 113.889 164.63 L 134.63 164.63 L 134.63 143.889 C 135.667 138.704 154.333 138.704 155.37 143.889 L 155.37 164.63 L 176.111 164.63 C 181.296 165.667 181.296 184.333 176.111 185.37 L 155.37 185.37 L 155.37 206.111 C 154.333 211.296 135.667 211.296 134.63 206.111 L 134.63 185.37 L 113.889 185.37 C 108.703 184.333 108.703 165.667 113.889 164.63 Z"/>
+    <circle id="↑" style="fill: var(--color1);" cx="145" cy="150" r="5"/>
+    <circle id="↓" style="fill: var(--color1);" cx="145" cy="200" r="5"/>
+    <circle id="←" style="fill: var(--color1);" cx="120" cy="175" r="5"/>
+    <circle id="→" style="fill: var(--color1);" cx="170" cy="175" r="5"/>
+  </g>
+  <g>
+    <circle style="fill: var(--color2);" cx="300" cy="122.5" r="12.5"/>
+    <circle style="fill: var(--color2);" cx="322.5" cy="100" r="12.5"/>
+    <circle style="fill: var(--color2);" cx="277.5" cy="100" r="12.5"/>
+    <circle style="fill: var(--color2);" cx="300" cy="77.5" r="12.5"/>
+    <circle id="A" style="fill: var(--color1);" cx="300" cy="122.5" r="8"/>
+    <circle id="B" style="fill: var(--color1);" cx="322.5" cy="100" r="8"/>
+    <circle id="X" style="fill: var(--color1);" cx="277.5" cy="100" r="8"/>
+    <circle id="Y" style="fill: var(--color1);" cx="300" cy="77.5" r="8"/>
+  </g>
+  <g>
+    <circle style="fill: var(--color2);" cx="165" cy="72" r="8"/>
+    <circle style="fill: var(--color2);" cx="235" cy="72" r="8"/>
+    <circle style="fill: var(--color2);" cx="182" cy="100" r="8"/>
+    <circle style="fill: var(--color2);" cx="218" cy="100" r="8"/>
+    <circle id="Q" style="fill: var(--color1);" cx="165" cy="72" r="5"/>
+    <circle id="S" style="fill: var(--color1);" cx="235" cy="72" r="5"/>
+    <circle id="P" style="fill: var(--color1);" cx="182" cy="100" r="5"/>
+    <circle id="H" style="fill: var(--color1);" cx="218" cy="100" r="5"/>
+  </g>
+  <g>
+    <path style="fill: var(--color2);" d="M 135 225 A 1 1 0 0 0 115 236.25 Z"/>
+    <path style="fill: var(--color2);" d="M 265 225 A 1 1 0 0 1 285 236.25 Z"/>
+    <path style="fill: var(--color2);" d="M 105 241.875 A 1 1 0 0 0 85 253.125 Z"/>
+    <path style="fill: var(--color2);" d="M 295 241.875 A 1 1 0 0 1 315 253.125 Z"/>
+    <path id="C1" style="fill: var(--color1);" d="M 133.527 226.055 C 129.896 219.601 120.644 219.498 116.869 225.867 C 115.119 228.824 115.077 232.49 116.761 235.483 L 133.527 226.055 Z"/>
+    <path id="C2" style="fill: var(--color1);" d="M 266.5 226.056 C 270.13 219.602 279.386 219.498 283.16 225.869 C 284.912 228.826 284.953 232.493 283.268 235.488 L 266.5 226.056 Z"/>
+    <path id="C3" style="fill: var(--color1);" d="M 103.527 242.929 C 99.897 236.476 90.643 236.372 86.869 242.742 C 85.118 245.698 85.077 249.364 86.762 252.359 L 103.527 242.929 Z"/>
+    <path id="C4" style="fill: var(--color1);" d="M 296.5 242.931 C 300.13 236.477 309.386 236.373 313.16 242.744 C 314.912 245.701 314.953 249.368 313.268 252.363 L 296.5 242.931 Z"/>
+  </g>
+</svg>

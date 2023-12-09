@@ -57,6 +57,18 @@
   - init: `$=game.title` - 初期化
   - play: `$=game.title` - 試験場：`label`
 
+- settings:
+  - language: 言語
+  - windowSize: ウィンドウサイズ
+  - windowMode: ウィンドウモード
+    - window: ウィンド
+    - frameless: フレームレス
+    - fullscreen: 全画面
+  - themeMode: 主題モード
+    - light: 淡い
+    - dark: 暗い
+  - rememberMyChoice: 私の選択を覚える
+
 ## punc. 一般的な記号
 
 - colon: "："
@@ -83,6 +95,18 @@
 
   - init: `$=game.title` - Splashscreen
   - play: `$=game.title` - Playground：`label`
+
+- settings:
+  - language: Language
+  - windowSize: Window Size
+  - windowMode: Window Mode
+    - window: Window
+    - frameless: Frameless
+    - fullscreen: Fullscreen
+  - themeMode: Theme Mode
+    - light: Light
+    - dark: Dark
+  - rememberMyChoice: Remember my choice
 
 ## punc. Common Punctuation
 
